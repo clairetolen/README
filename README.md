@@ -1,1 +1,3 @@
-# README
+Hello! My name is Claire and I'm a junior currently pursuing my B.S in Computer Science at Binghamton University. One of my goals is to develop a diverse understanding of the technology industry across multiple sectors and use that knowledge to make meaningful change. I am particularly interested in understanding how technological innovation can improve medical and financial processes and address real-world challenges. 
+
+I enjoy collaborating, learning from others, and contributing to projects that make an impact. I welcome you to explore my projects thus far and if you would like to connect, feel free to reach out anytime at ctolentino@binghamton.edu or https://www.linkedin.com/in/claire-tolentino/
